@@ -91,10 +91,6 @@ Ingress - gcloud container clusters update mykube --update-addons=HttpLoadBalanc
 -> kubectl apply -f app-ingress.yaml
 
 
-### Collaborative filtering algorithm : https://github.com/TheClub4/collaborative_filtering/blob/master/collaborative_filtering.ipynb
-
-### Working System Video : https://www.youtube.com/watch?v=cyC2jlzdmn4
-
 ### Screenshots
 
 ![Arch_Image](https://github.com/AmitProspeed/Cloud-Based-Movie-Recommender-System/blob/main/images/screen1.png)
